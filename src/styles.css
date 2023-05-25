@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(246, 239, 251);
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+  color: rgb(35, 32, 32);
+}
+a {
+  color: rgb(35, 32, 32);
+}
